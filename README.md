@@ -17,4 +17,6 @@ like:<br>
 <code>project1.sortData();</code><br>
 =>for sorting data<br>
 <code>project1.clearData();</code><br>
-=>for sorting data<br>
+=>for clear content of file<br>
+<code>project1.find(4);</code><br>
+=>for finding 4 in sorted numbers<br>
