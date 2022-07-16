@@ -12,3 +12,9 @@ like:<br>
 =>min and max is range of random number and count is how many numbers you want.<br>
 <code>project1.appendRandNumbers(1, 1, 100);</code><br>
 =>this will not remove the content of file just append new rand numbers to the file<br>
+<code>project1.readData();</code><br>
+=>this will read rand numbers to the file and log..<br>
+<code>project1.sortData();</code><br>
+=>for sorting data<br>
+<code>project1.clearData();</code><br>
+=>for sorting data<br>
